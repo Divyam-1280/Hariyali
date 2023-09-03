@@ -1014,6 +1014,10 @@ hr{
     height: 50%;
   }
 
+  .md\:h-\[130px\]{
+    height: 130px;
+  }
+
   .md\:w-\[130px\]{
     width: 130px;
   }
