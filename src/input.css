@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Delius+Swash+Caps&family=Faustina&family=Hanuman&family=Inria+Sans&family=La+Belle+Aurore&family=Marmelad&family=Playfair+Display&family=Sansita+Swashed&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Delius+Swash+Caps&family=Faustina&family=Hanuman&family=Inria+Sans&family=La+Belle+Aurore&family=Marmelad&family=Outfit&family=Playfair+Display&family=Sansita+Swashed&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -62,6 +61,9 @@
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
+    }
+    .item{
+        font-family: 'Outfit', sans-serif;
     }
     .men-head, .food-cat{
         font-family:  'Delius Swash Caps', cursive;
