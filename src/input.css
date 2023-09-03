@@ -13,7 +13,7 @@
     }
     @media screen and (max-width:1280px) {
         .home{
-            background-image: url('/media/bg2.png');
+            background-image: url('/media/bg2.jpg');
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
@@ -85,7 +85,7 @@
         width: 80%;
     }
     .contact{
-        background-image: url('/media/Screenshot\ 2023-08-23\ 161806.png');
+        background-image: url('/media/Screenshot\ 2023-08-23\ 161806.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
