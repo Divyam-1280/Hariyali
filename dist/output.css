@@ -850,6 +850,14 @@ hr{
   width: 100%;
 }
 
+.w-\[50px\]{
+  width: 50px;
+}
+
+.w-\[40px\]{
+  width: 40px;
+}
+
 .grow{
   flex-grow: 1;
 }
